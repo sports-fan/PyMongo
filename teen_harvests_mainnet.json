@@ -1,0 +1,1269 @@
+[{
+  "wallet_address": "0x2a77543E0134869BbD0cb989AA07ADa85134F92f",
+  "token_id": "1986",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666648907222"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x74f1109db9a9976a98Ccb1c71cFDBe47C174aB1D",
+  "token_id": "3024",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666649421681"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "3581",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650346225"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666650379950"
+    }
+  }
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "3139",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650346225"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666650379950"
+    }
+  }
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "3138",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650346225"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666650379950"
+    }
+  }
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "2400",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650346225"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666650379950"
+    }
+  }
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "2033",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650346225"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666650379950"
+    }
+  }
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "613",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650346225"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666650379950"
+    }
+  }
+},{
+  "wallet_address": "0x067D3160A3D2C91C958c604F4fE92AbfC82063A4",
+  "token_id": "4449",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650387409"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x067D3160A3D2C91C958c604F4fE92AbfC82063A4",
+  "token_id": "3658",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650387409"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x067D3160A3D2C91C958c604F4fE92AbfC82063A4",
+  "token_id": "2597",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650387409"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x067D3160A3D2C91C958c604F4fE92AbfC82063A4",
+  "token_id": "1700",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666650387409"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xE64E58Ed16979Ae7de24E1161A0Aa97fd508ADe5",
+  "token_id": "4683",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666651167522"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666933711083"
+    }
+  }
+},{
+  "wallet_address": "0xE64E58Ed16979Ae7de24E1161A0Aa97fd508ADe5",
+  "token_id": "4462",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666651167522"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666933711083"
+    }
+  }
+},{
+  "wallet_address": "0xE64E58Ed16979Ae7de24E1161A0Aa97fd508ADe5",
+  "token_id": "4422",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666651167522"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666933711083"
+    }
+  }
+},{
+  "wallet_address": "0xE64E58Ed16979Ae7de24E1161A0Aa97fd508ADe5",
+  "token_id": "4380",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666651167522"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666933711083"
+    }
+  }
+},{
+  "wallet_address": "0xE64E58Ed16979Ae7de24E1161A0Aa97fd508ADe5",
+  "token_id": "3887",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666651167522"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666933711083"
+    }
+  }
+},{
+  "wallet_address": "0x74f1109db9a9976a98Ccb1c71cFDBe47C174aB1D",
+  "token_id": "3024",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666682277339"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xE525538312807037DbE653Bc1aeC5b0d722fDd48",
+  "token_id": "4466",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666691663499"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xc134eb26CAC544A24a97B0D108DC36E7E41172Ad",
+  "token_id": "2724",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666701395641"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666775966725"
+    }
+  }
+},{
+  "wallet_address": "0x153B202F6C6e570f13C27371CdA6Ae2c8768Dca6",
+  "token_id": "3255",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666709537523"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666715768462"
+    }
+  }
+},{
+  "wallet_address": "0x2a77543E0134869BbD0cb989AA07ADa85134F92f",
+  "token_id": "1986",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666712778251"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "4823",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "4525",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "4360",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "3345",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "3344",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "2542",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x72B813FA4F0f206845f9dEC27e5DF055c81868d6",
+  "token_id": "2435",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713082107"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "3581",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713150373"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "3139",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713150373"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "3138",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713150373"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "2400",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713150373"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "2033",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713150373"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x7863ce724d34BE280462f4FF9AA9dA6B3847EAf2",
+  "token_id": "613",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713150373"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x1fF870C9142555c980893594436Af9875e30F7da",
+  "token_id": "3660",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713197577"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x1fF870C9142555c980893594436Af9875e30F7da",
+  "token_id": "3314",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713197577"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x1fF870C9142555c980893594436Af9875e30F7da",
+  "token_id": "3200",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713197577"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x1fF870C9142555c980893594436Af9875e30F7da",
+  "token_id": "3037",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713197577"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x1fF870C9142555c980893594436Af9875e30F7da",
+  "token_id": "958",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713197577"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x78D0d84b996648f2A751B3f12e91cb04002C54a9",
+  "token_id": "4833",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713223712"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x78D0d84b996648f2A751B3f12e91cb04002C54a9",
+  "token_id": "3390",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713223712"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x78D0d84b996648f2A751B3f12e91cb04002C54a9",
+  "token_id": "2716",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713223712"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x78D0d84b996648f2A751B3f12e91cb04002C54a9",
+  "token_id": "2052",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713223712"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x78D0d84b996648f2A751B3f12e91cb04002C54a9",
+  "token_id": "1745",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713223712"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x78D0d84b996648f2A751B3f12e91cb04002C54a9",
+  "token_id": "16",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713223712"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x37D60fC1E5481A105Ff3Ddeb407dab70988623Ba",
+  "token_id": "38",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713247856"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x8D662312a12dEdBfD9f558eD9821d87922650b2c",
+  "token_id": "1715",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713258897"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666748958295"
+    }
+  }
+},{
+  "wallet_address": "0xd3C0927C93195C7E723E1677c4FfC977e36e7C0e",
+  "token_id": "3130",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713419324"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666713446488"
+    }
+  }
+},{
+  "wallet_address": "0xd3C0927C93195C7E723E1677c4FfC977e36e7C0e",
+  "token_id": "2197",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713419324"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666713446488"
+    }
+  }
+},{
+  "wallet_address": "0xd3C0927C93195C7E723E1677c4FfC977e36e7C0e",
+  "token_id": "2196",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713419324"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666713446488"
+    }
+  }
+},{
+  "wallet_address": "0xd3C0927C93195C7E723E1677c4FfC977e36e7C0e",
+  "token_id": "1918",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713419324"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666713446488"
+    }
+  }
+},{
+  "wallet_address": "0xd3C0927C93195C7E723E1677c4FfC977e36e7C0e",
+  "token_id": "1760",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713419324"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666713446488"
+    }
+  }
+},{
+  "wallet_address": "0xd3C0927C93195C7E723E1677c4FfC977e36e7C0e",
+  "token_id": "1759",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713419324"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666713446488"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4515",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4514",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4511",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4499",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4478",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4477",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "4411",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "1059",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "1058",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "43",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0xF564CFc2D7Cbc96b2A8a228C684208AbAf34bCcC",
+  "token_id": "17",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713505713"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666743717284"
+    }
+  }
+},{
+  "wallet_address": "0x62448888Fe1c19Ca0A4c78BA055F31B33A7b1BCf",
+  "token_id": "4826",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713673289"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x1ea71c18F5F64360f2be6C194Fa00fF651b98719",
+  "token_id": "4812",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713746579"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666838754842"
+    }
+  }
+},{
+  "wallet_address": "0x1ea71c18F5F64360f2be6C194Fa00fF651b98719",
+  "token_id": "4538",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713746579"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666838754842"
+    }
+  }
+},{
+  "wallet_address": "0x562b0D1D3ad331022842B39589d01CAD924e12eF",
+  "token_id": "4535",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713856918"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666763614328"
+    }
+  }
+},{
+  "wallet_address": "0x562b0D1D3ad331022842B39589d01CAD924e12eF",
+  "token_id": "4465",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713856918"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666763614328"
+    }
+  }
+},{
+  "wallet_address": "0xf1f5fF6224a4d467d5cd80e0945C19500fD890D6",
+  "token_id": "3143",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713948184"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666888629981"
+    }
+  }
+},{
+  "wallet_address": "0xf1f5fF6224a4d467d5cd80e0945C19500fD890D6",
+  "token_id": "3142",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713948184"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666888629981"
+    }
+  }
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4591",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4589",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4588",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4587",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4582",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4581",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4580",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4579",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4578",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4577",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4575",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4573",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4571",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "4569",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "744",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "743",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xf51c1952785B98fc127D3d6009B74A9C0c301A24",
+  "token_id": "742",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666713999393"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xdFcAA56be6326F0Dd17985D17244726ab90E45ce",
+  "token_id": "3028",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714195139"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xF06EB98d6C7968D9011983cCEC1E58A3349B9F63",
+  "token_id": "4027",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714292419"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666820224790"
+    }
+  }
+},{
+  "wallet_address": "0xF06EB98d6C7968D9011983cCEC1E58A3349B9F63",
+  "token_id": "3989",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714292419"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666820224790"
+    }
+  }
+},{
+  "wallet_address": "0xF06EB98d6C7968D9011983cCEC1E58A3349B9F63",
+  "token_id": "1799",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714292419"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666820224790"
+    }
+  }
+},{
+  "wallet_address": "0xe24b3ecD5fa47F1e68D124B7D5762fdc46E80B0C",
+  "token_id": "4777",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714401749"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xe94eF8079Bb2A9b8433bd28556011BCd476b4D23",
+  "token_id": "3305",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714541131"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xe94eF8079Bb2A9b8433bd28556011BCd476b4D23",
+  "token_id": "2267",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714541131"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0xe94eF8079Bb2A9b8433bd28556011BCd476b4D23",
+  "token_id": "1094",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714541131"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+},{
+  "wallet_address": "0x52eFAA3404CE4DccFF446Bc7b5510F1324c1A381",
+  "token_id": "4348",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714558216"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666795627035"
+    }
+  }
+},{
+  "wallet_address": "0x52eFAA3404CE4DccFF446Bc7b5510F1324c1A381",
+  "token_id": "4309",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714558216"
+    }
+  },
+  "claimed": true,
+  "date_claimed": {
+    "$date": {
+      "$numberLong": "1666795627035"
+    }
+  }
+},{
+  "wallet_address": "0x41FD3dC049F8c1aC6670dE119698D3488017c0b6",
+  "token_id": "3919",
+  "meth_amount": 1,
+  "date_harvested": {
+    "$date": {
+      "$numberLong": "1666714630431"
+    }
+  },
+  "claimed": false,
+  "date_claimed": null
+}]
